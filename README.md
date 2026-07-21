@@ -32,9 +32,4 @@ Approximate Integral = 42.0000
 
 ## 🛠️ Language
 
-- Python 3.x
-
-## 📄 License
-
-MIT License
-
+- Python 
